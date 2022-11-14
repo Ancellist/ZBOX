@@ -152,24 +152,6 @@ line-height: 39px;
 color: #FFFFFF;
 }
 
-.амогус6
-/* Купить */
-{
-position: absolute;
-width: 246px;
-height: 49px;
-left: 146px;
-top: 849px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 300;
-font-size: 48px;
-line-height: 58px;
-
-color: #FFFFFF;
-}
-
 .амогус7
 /* Rectangle 17 */
 {
@@ -178,7 +160,10 @@ width: 379px;
 height: 88px;
 left: 47px;
 top: 835px;
-
+padding: 1px;
+font-size: 32px;
+color: #FFFFFF;
+border-color: #FFFFFF;
 background: #52B788;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 60px;
